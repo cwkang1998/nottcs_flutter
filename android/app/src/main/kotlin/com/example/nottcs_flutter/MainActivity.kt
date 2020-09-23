@@ -1,4 +1,4 @@
-package com.example.nottcs_flutter
+package com.nottcs.nottcs_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
